@@ -1,3 +1,3 @@
-#tutorial
+# tutorial
 
-このリポジトリはgit/githubの練習用です。
+このリポジトリはgit/githubの練習用です。GIT
